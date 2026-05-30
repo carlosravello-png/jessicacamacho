@@ -90,4 +90,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/validaciones/" />
   </url>
 
+
+  <!-- RSS Feed -->
+  <url>
+    <loc>https://jessica-camacho.com/feed.xml</loc>
+    <lastmod>2026-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
 </urlset>

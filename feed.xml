@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>Dra. Jessica Ysabel Camacho García — Médico Veterinaria y Zootecnista</title>
+    <link>https://jessica-camacho.com</link>
+    <description>Diagnóstico veterinario sistémico, exportación internacional de mascotas y publicaciones científicas en acceso abierto. Trujillo, Perú. CMVP 12434.</description>
+    <language>es</language>
+    <copyright>© 2026 jessica-camacho.com · Dra. Jessica Ysabel Camacho García. All rights reserved.</copyright>
+    <managingEditor>mv.jcamachog@zoovettravel.com (Dra. Jessica Ysabel Camacho García)</managingEditor>
+    <webMaster>mv.jcamachog@zoovettravel.com</webMaster>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <ttl>10080</ttl>
+    <atom:link href="https://jessica-camacho.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <!-- ═══════════════════════════════════════════════════════
+         SEMANA: 23–29 May 2026
+         ═══════════════════════════════════════════════════════ -->
+
+    <item>
+      <title>llms.txt — Declaración de autoridad e identidad para modelos de lenguaje</title>
+      <link>https://jessica-camacho.com/llms.txt</link>
+      <guid isPermaLink="true">https://jessica-camacho.com/llms.txt</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <description>Archivo de identidad estructurada para LLMs: credenciales verificables (CMVP 12434, ORCID, CTI Vitae, Google Knowledge Graph /g/11nbnrcn0_), metodología clínica, publicaciones científicas con DOI y directivas de citación por sección.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>jessica-camacho.com</dc:publisher>
+      <dc:rights>© 2026 jessica-camacho.com. All rights reserved.</dc:rights>
+      <dc:subject>llms.txt</dc:subject>
+      <dc:subject>identidad profesional veterinaria</dc:subject>
+      <dc:subject>Google Knowledge Graph</dc:subject>
+      <category>Identidad Digital</category>
+    </item>
+
+    <item>
+      <title>Schema enrichment — 3 nuevos ScholarlyArticle DOIs: Hipobaria, Eje intestino-cerebro, Braquicéfalos</title>
+      <link>https://jessica-camacho.com/</link>
+      <guid isPermaLink="false">jessica-camacho.com-schema-20260529</guid>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <description>Actualización del schema JSON-LD: incorporación de los volúmenes III, V y VIII de la Zoovet Travel Technical Series como ScholarlyArticle con DOI permanente. Expansión de knowsAbout a 18 términos específicos. Eliminación del identificador Wikidata deprecado.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>jessica-camacho.com</dc:publisher>
+      <dc:rights>© 2026 jessica-camacho.com. All rights reserved.</dc:rights>
+      <dc:subject>schema.org JSON-LD</dc:subject>
+      <dc:subject>ScholarlyArticle</dc:subject>
+      <dc:subject>DOI Zenodo</dc:subject>
+      <category>SEO Técnico</category>
+    </item>
+
+    <item>
+      <title>Mecanismos de compensación fisiológica ante la hipoxia moderada en cánidos y félidos durante el transporte aéreo (Vol. VIII)</title>
+      <link>https://doi.org/10.5281/zenodo.20361607</link>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.20361607</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Análisis de los mecanismos de compensación fisiológica y los límites de reserva ante la hipoxia moderada en cánidos y félidos durante el transporte aéreo comercial. Revisión técnica de la fisiología respiratoria comparada y normativa FAA/EASA/LAR. DOI: 10.5281/zenodo.20361607.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>Zoovet Travel</dc:publisher>
+      <dc:rights>© 2026 Zoovet Travel. CC BY 4.0.</dc:rights>
+      <dc:subject>hipobaria veterinaria</dc:subject>
+      <dc:subject>transporte aéreo animales</dc:subject>
+      <dc:subject>fisiología respiratoria canina</dc:subject>
+      <dc:subject>IATA LAR</dc:subject>
+      <category>Publicación Científica</category>
+    </item>
+
+    <item>
+      <title>Perfil profesional — Dra. Jessica Ysabel Camacho García · CMVP 12434</title>
+      <link>https://jessica-camacho.com/</link>
+      <guid isPermaLink="true">https://jessica-camacho.com/</guid>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <description>Perfil profesional verificable: Médico Veterinaria y Zootecnista, CMVP 12434, ORCID 0009-0002-6837-5311, cofundadora de Zoovet Travel (2013). Diagnóstico sistémico, exportación internacional de mascotas y serie técnica científica en acceso abierto.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>jessica-camacho.com</dc:publisher>
+      <dc:rights>© 2026 jessica-camacho.com. All rights reserved.</dc:rights>
+      <dc:subject>médico veterinaria Trujillo Perú</dc:subject>
+      <dc:subject>CMVP 12434</dc:subject>
+      <dc:subject>exportación internacional mascotas</dc:subject>
+      <dc:subject>diagnóstico veterinario sistémico</dc:subject>
+      <category>Perfil Profesional</category>
+    </item>
+
+    <item>
+      <title>Diagnóstico Veterinario Sistémico — Dermatología, Endocrinología y Medicina Interna</title>
+      <link>https://jessica-camacho.com/diagnostico-veterinario/</link>
+      <guid isPermaLink="true">https://jessica-camacho.com/diagnostico-veterinario/</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>La piel no genera la enfermedad. La anuncia. Metodología de diagnóstico sistémico veterinario: dermatología, endocrinología, nutrición y medicina interna como un solo sistema. Consulta de una hora. Consulta virtual disponible. Dra. Jessica Camacho García, CMVP 12434.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>jessica-camacho.com</dc:publisher>
+      <dc:rights>© 2026 jessica-camacho.com. All rights reserved.</dc:rights>
+      <dc:subject>diagnóstico veterinario sistémico</dc:subject>
+      <dc:subject>dermatología veterinaria</dc:subject>
+      <dc:subject>endocrinopatías ocultas animales</dc:subject>
+      <dc:subject>consulta veterinaria virtual</dc:subject>
+      <category>Práctica Clínica</category>
+    </item>
+
+    <item>
+      <title>Zoovet Travel — Medicina de Viaje Veterinaria y Exportación Internacional de Mascotas</title>
+      <link>https://jessica-camacho.com/zoovet-travel/</link>
+      <guid isPermaLink="true">https://jessica-camacho.com/zoovet-travel/</guid>
+      <pubDate>Thu, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>Exportación internacional de mascotas desde Perú: protocolo médico completo con microchip ISO 11784/11785, serología FAVN/RNATT, certificación SENASA y más de 20 destinos. Fundada en 2013. Dra. Jessica Camacho García, CMVP 12434.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>jessica-camacho.com</dc:publisher>
+      <dc:rights>© 2026 jessica-camacho.com. All rights reserved.</dc:rights>
+      <dc:subject>exportación mascotas Perú</dc:subject>
+      <dc:subject>serología FAVN RNATT</dc:subject>
+      <dc:subject>certificación SENASA</dc:subject>
+      <dc:subject>medicina viaje veterinaria</dc:subject>
+      <category>Medicina de Viaje Veterinaria</category>
+    </item>
+
+    <item>
+      <title>Verificación Profesional — CMVP 12434, ORCID, CTI Vitae, FAO AGRIS</title>
+      <link>https://jessica-camacho.com/validaciones/</link>
+      <guid isPermaLink="true">https://jessica-camacho.com/validaciones/</guid>
+      <pubDate>Thu, 15 May 2026 00:00:00 +0000</pubDate>
+      <description>Registros institucionales verificables de la Dra. Jessica Ysabel Camacho García: colegiatura CMVP 12434, ORCID 0009-0002-6837-5311, CTI Vitae CONCYTEC ID 0140858, FAO AGRIS, Google Scholar. Trece años de práctica veterinaria no se declaran. Se verifican.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>jessica-camacho.com</dc:publisher>
+      <dc:rights>© 2026 jessica-camacho.com. All rights reserved.</dc:rights>
+      <dc:subject>CMVP 12434</dc:subject>
+      <dc:subject>ORCID veterinaria</dc:subject>
+      <dc:subject>CTI Vitae CONCYTEC</dc:subject>
+      <dc:subject>verificación profesional veterinaria</dc:subject>
+      <category>Credenciales</category>
+    </item>
+
+    <item>
+      <title>El eje intestino–cerebro en perros y gatos durante transporte internacional (Vol. V)</title>
+      <link>https://doi.org/10.5281/zenodo.20370344</link>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.20370344</guid>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <description>Revisión mecanística del eje intestino–cerebro en perros y gatos durante transporte internacional. Activación del sistema simpático-adrenomedular (SAM), eje hipotálamo-hipófisis-adrenal (HPA), microbiota y metabolismo energético. DOI: 10.5281/zenodo.20370344.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>Zoovet Travel</dc:publisher>
+      <dc:rights>© 2026 Zoovet Travel. CC BY 4.0.</dc:rights>
+      <dc:subject>eje intestino cerebro perros gatos</dc:subject>
+      <dc:subject>microbiota transporte aéreo mascotas</dc:subject>
+      <dc:subject>estrés neuroendocrino viaje</dc:subject>
+      <category>Publicación Científica</category>
+    </item>
+
+    <item>
+      <title>Transporte aéreo de perros braquicéfalos: riesgos fisiológicos, factores de riesgo y marco regulatorio (Vol. III)</title>
+      <link>https://doi.org/10.5281/zenodo.20370359</link>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.20370359</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <description>Revisión técnica de los riesgos fisiológicos del síndrome BOAS, interacción con la hipoxia relativa de cabina a 2.438 m, limitaciones de termorregulación y factores de riesgo documentados en razas braquicéfalas. DOI: 10.5281/zenodo.20370359.</description>
+      <dc:creator>Jessica Ysabel Camacho García</dc:creator>
+      <dc:publisher>Zoovet Travel</dc:publisher>
+      <dc:rights>© 2026 Zoovet Travel. CC BY 4.0.</dc:rights>
+      <dc:subject>braquicéfalos transporte aéreo</dc:subject>
+      <dc:subject>BOAS riesgo vuelo</dc:subject>
+      <dc:subject>normativa IATA razas braquicéfalas</dc:subject>
+      <category>Publicación Científica</category>
+    </item>
+
+  </channel>
+</rss>
