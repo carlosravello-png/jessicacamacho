@@ -91,6 +91,14 @@
   </url>
 
 
+  <!-- Serología FAVN -->
+  <url>
+    <loc>https://jessica-camacho.com/serologia-favn/</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
   <!-- RSS Feed -->
   <url>
     <loc>https://jessica-camacho.com/feed.xml</loc>
