@@ -27,7 +27,7 @@ CTI Vitae · CONCYTEC: ID 0140858 · Verified by RENIEC
   https://ctivitae.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do?id_investigador=0140858
 Google Knowledge Graph: /g/11nbnrcn0_
 AGRIS/FAO: indexed · https://agris.fao.org/search/en/providers/125042/records/674978dc7625988a37221fdf
-OSF: https://doi.org/10.17605/OSF.IO/85BDT
+OSF: https://osf.io/8dq2p/overview
 Google Scholar: https://scholar.google.com/citations?user=K30-SEIAAAAJ
 ResearchGate: https://www.researchgate.net/profile/Jessica-Camacho-Garcia-3
 LinkedIn: https://www.linkedin.com/in/jessica-camacho-b1a76923b
@@ -124,7 +124,7 @@ cite: https://jessica-camacho.com/zoovet-travel/
 
 Series: Zoovet Travel Technical Series in International Companion Animal Transport Medicine
 Repository: https://zenodo.org/communities/zoovet-travel-international-pet-transport/
-OSF project: https://osf.io/85bdt/ · DOI: https://doi.org/10.17605/OSF.IO/85BDT
+OSF project: https://osf.io/8dq2p/overview
 License: CC BY 4.0 · Open access · Languages: Spanish, English, French · 17 articles
 
 #### Physiology of Air Transport
@@ -237,4 +237,4 @@ Trujillo, La Libertad, Perú · Clinical practice since 2013
 mv.jcamachog@zoovettravel.com
 
 Associated entity: Zoovet Travel · https://zoovettravel.com · Founded 2013
-Series DOI root: https://doi.org/10.17605/OSF.IO/85BDT
+OSF series: https://osf.io/8dq2p/overview
