@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 820 640" width="820" height="640" role="img" aria-labelledby="t d" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
+  <title id="t">Diagnóstico diferencial Cushing verdadero vs. pseudo-Cushing en el perro — Dra. Jessica Camacho García</title>
+  <desc id="d">Tabla comparativa de orientación diferencial entre hiperadrenocorticismo verdadero (causa orgánica: neoplasia hipofisaria o adrenal; cuadro sistémico completo; pruebas reproducibles; evolución persistente) e hipercortisolemia funcional o pseudo-Cushing (reactiva a estrés o enfermedad; cuadro incompleto; falsos positivos en pruebas; mejora al controlar la base). Regla: no realizar pruebas de Cushing en un paciente estresado o enfermo. Contenido clínico de la Dra. Jessica Ysabel Camacho García, CMVP 12434, ORCID 0009-0002-6837-5311. Diseño © Carlos Eduardo Ravello Joo.</desc>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/">
+        <dc:title>Diagnóstico diferencial Cushing verdadero vs. pseudo-Cushing en el perro — tabla clínica</dc:title>
+        <dc:creator>Dra. Jessica Ysabel Camacho García — Médico Veterinaria y Zootecnista, CMVP 12434, ORCID 0009-0002-6837-5311</dc:creator>
+        <dc:rights>© 2026 Carlos Eduardo Ravello Joo — diseño y arquitectura semántica (Modelo de Coherencia Dinámico, MCD). Contenido clínico © Dra. Jessica Ysabel Camacho García.</dc:rights>
+        <dc:publisher>jessica-camacho.com</dc:publisher>
+        <dc:source>https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/</dc:source>
+        <dc:subject>hiperadrenocorticismo canino; síndrome de Cushing; pseudo-Cushing; hipercortisolemia funcional; diagnóstico diferencial; dermatosis endocrina; LDDST; estimulación con ACTH</dc:subject>
+        <dc:description>Tabla comparativa de orientación diferencial entre hiperadrenocorticismo verdadero e hipercortisolemia funcional (pseudo-Cushing) en el perro. Autora clínica: Dra. Jessica Ysabel Camacho García.</dc:description>
+        <dc:language>es</dc:language>
+        <dc:date>2026-06-19</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+  <rect width="820" height="640" fill="#FFFFFF"/>
+
+  <text x="410" y="40" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="25" font-weight="700" fill="#3F2366">Cushing verdadero frente a pseudo-Cushing</text>
+  <text x="410" y="68" text-anchor="middle" font-size="13.5" fill="#6A7181">Orientación diferencial ante una dermatosis endocrina canina</text>
+
+  <!-- Column headers -->
+  <rect x="30" y="88" width="200" height="46" fill="#F8F5FB" stroke="#EBE6F3"/>
+  <text x="44" y="116" font-size="12.5" font-weight="700" fill="#6A7181">Elemento</text>
+  <rect x="230" y="88" width="292" height="46" fill="#6B3FA0"/>
+  <text x="376" y="110" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">Hiperadrenocorticismo</text>
+  <text x="376" y="126" text-anchor="middle" font-size="11.5" fill="#E0D4F0">verdadero (HAC)</text>
+  <rect x="522" y="88" width="268" height="46" fill="#5B6B8C"/>
+  <text x="656" y="110" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">Hipercortisolemia funcional</text>
+  <text x="656" y="126" text-anchor="middle" font-size="11.5" fill="#DCE2EE">(pseudo-Cushing)</text>
+
+  <!-- Rows -->
+  <!-- r1 -->
+  <rect x="30" y="134" width="200" height="58" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="168" font-size="12.5" font-weight="600" fill="#3F2366">Causa</text>
+  <rect x="230" y="134" width="292" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="168" font-size="12.5" fill="#333944">Neoplasia hipofisaria o adrenal</text>
+  <rect x="522" y="134" width="268" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="168" font-size="12.5" fill="#333944">Reactiva a estrés o enfermedad</text>
+  <!-- r2 -->
+  <rect x="30" y="192" width="200" height="58" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="226" font-size="12.5" font-weight="600" fill="#3F2366">Cuadro sistémico</text>
+  <rect x="230" y="192" width="292" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="218" font-size="12.5" fill="#333944">Completo: PU/PD, polifagia,</text><text x="244" y="235" font-size="12.5" fill="#333944">abdomen péndulo</text>
+  <rect x="522" y="192" width="268" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="226" font-size="12.5" fill="#333944">Incompleto o ausente</text>
+  <!-- r3 -->
+  <rect x="30" y="250" width="200" height="58" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="284" font-size="12.5" font-weight="600" fill="#3F2366">Signos cutáneos</text>
+  <rect x="230" y="250" width="292" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="276" font-size="12.5" fill="#333944">Alopecia simétrica,</text><text x="244" y="293" font-size="12.5" fill="#333944">calcinosis cutis</text>
+  <rect x="522" y="250" width="268" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="276" font-size="12.5" fill="#333944">Pueden remedar;</text><text x="536" y="293" font-size="12.5" fill="#333944">menos floridos</text>
+  <!-- r4 -->
+  <rect x="30" y="308" width="200" height="58" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="342" font-size="12.5" font-weight="600" fill="#3F2366">Pruebas funcionales</text>
+  <rect x="230" y="308" width="292" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="342" font-size="12.5" fill="#333944">Patrón reproducible, en contexto</text>
+  <rect x="522" y="308" width="268" height="58" fill="#FFF6F6" stroke="#EBE6F3"/><text x="536" y="335" font-size="12.5" fill="#A33A3A">Riesgo de falsos positivos</text><text x="536" y="352" font-size="12.5" fill="#A33A3A">bajo estrés</text>
+  <!-- r5 -->
+  <rect x="30" y="366" width="200" height="58" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="400" font-size="12.5" font-weight="600" fill="#3F2366">Evolución</text>
+  <rect x="230" y="366" width="292" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="400" font-size="12.5" fill="#333944">Persistente sin tratamiento</text>
+  <rect x="522" y="366" width="268" height="58" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="400" font-size="12.5" fill="#333944">Mejora al controlar la base</text>
+
+  <!-- Banner -->
+  <rect x="30" y="446" width="760" height="50" rx="8" fill="#F8F5FB" stroke="#6B3FA0"/>
+  <text x="410" y="470" text-anchor="middle" font-size="13.5" font-weight="600" font-style="italic" fill="#3F2366">Regla: no realizar pruebas de Cushing en un paciente estresado o enfermo.</text>
+  <text x="410" y="487" text-anchor="middle" font-size="12.5" font-style="italic" fill="#6A7181">El estrés y la enfermedad no adrenal generan falsos positivos.</text>
+
+  <!-- Footer attribution -->
+  <line x1="30" y1="552" x2="790" y2="552" stroke="#EBE6F3" stroke-width="1"/>
+  <text x="410" y="572" text-anchor="middle" font-size="12" font-weight="600" fill="#3F2366">Contenido clínico: Dra. Jessica Ysabel Camacho García, MV · CMVP 12434 · ORCID 0009-0002-6837-5311</text>
+  <text x="410" y="591" text-anchor="middle" font-size="11.5" fill="#6A7181">© 2026 Carlos Eduardo Ravello Joo — diseño y arquitectura (MCD) · jessica-camacho.com</text>
+  <text x="410" y="609" text-anchor="middle" font-size="11" fill="#6A7181">Licencia CC BY-NC-ND 4.0 · Fuentes con DOI verificadas en el artículo original</text>
+</svg>

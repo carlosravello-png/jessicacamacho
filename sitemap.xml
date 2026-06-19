@@ -113,6 +113,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/serologia-favn/" />
   </url>
 
+  <!-- Spoke clínico: Perro se lame y pierde pelo (estrés crónico) ES -->
+  <url>
+    <loc>https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/dog-licking-hair-loss-stress/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
+  </url>
+
+  <!-- Spoke clínico EN: Dog licking and hair loss (chronic stress) -->
+  <url>
+    <loc>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/dog-licking-hair-loss-stress/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/dog-licking-hair-loss-stress/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
+  </url>
+
   <!-- RSS Feed -->
   <url>
     <loc>https://jessica-camacho.com/feed.xml</loc>
