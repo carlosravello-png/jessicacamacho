@@ -135,6 +135,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
   </url>
 
+  <!-- Revisión técnica: Hiperadrenocorticismo y piel (Cushing) ES -->
+  <url>
+    <loc>https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hyperadrenocorticism-cushing-dermatology-dog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
+  </url>
+
+  <!-- Technical review: Hyperadrenocorticism and the skin (Cushing) EN -->
+  <url>
+    <loc>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hyperadrenocorticism-cushing-dermatology-dog/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hyperadrenocorticism-cushing-dermatology-dog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
+  </url>
+
   <!-- RSS Feed -->
   <url>
     <loc>https://jessica-camacho.com/feed.xml</loc>
