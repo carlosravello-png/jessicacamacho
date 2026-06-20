@@ -94,6 +94,9 @@
         .diagram-fig { margin: 28px 0 0; }
         .diagram-fig img { width: 100%; height: auto; border: 1px solid var(--color-border); border-radius: 8px; display: block; }
         .diagram-fig figcaption { font-size: 0.85rem; color: var(--color-text-light); margin-top: 10px; font-style: italic; line-height: 1.5; }
+        .photo-clin { margin: 30px auto 0; max-width: 480px; }
+        .photo-clin img { width: 100%; height: auto; border: 1px solid var(--color-border); border-radius: 8px; display: block; }
+        .photo-clin figcaption { font-size: 0.85rem; color: var(--color-text-light); margin-top: 10px; font-style: italic; line-height: 1.5; text-align: left; }
         .sources { counter-reset: src; list-style: none; padding-left: 0; }
         .sources li { position: relative; padding-left: 34px; margin-bottom: 16px; font-size: 0.92rem; color: var(--color-text-light); line-height: 1.55; text-align: left; }
         .sources li::before { counter-increment: src; content: counter(src); position: absolute; left: 0; top: 1px; width: 22px; height: 22px; background: var(--color-bg-alt); border: 1px solid var(--color-border); border-radius: 50%; color: var(--color-primary); font-size: 0.78rem; font-weight: 600; display: flex; align-items: center; justify-content: center; }
@@ -156,7 +159,9 @@
           "mainEntityOfPage": { "@id": "https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/#article" },
           "image": [
             "https://jessica-camacho.com/assets/img/clinica/dra-jessica-camacho-veterinaria-consulta-clinica.webp",
-            "https://jessica-camacho.com/assets/img/diagramas/hipotiroidismo-vs-nthi-en.svg"
+            "https://jessica-camacho.com/assets/img/diagramas/hipotiroidismo-vs-nthi-en.svg",
+            "https://jessica-camacho.com/assets/img/clinica/caso-clinico-dermatosis-alopecia-canina-jessica-camacho.webp",
+            "https://jessica-camacho.com/assets/img/clinica/examen-dermatologico-dermatoscopio-canino-jessica-camacho.webp"
           ],
           "keywords": "canine hypothyroidism, non-thyroidal illness syndrome, NTIS, thyroid hormone, endocrine dermatosis, truncal alopecia, rat tail, myxedema, low T4, differential diagnosis, overdiagnosis",
           "breadcrumb": {
@@ -190,6 +195,32 @@
           "copyrightNotice": "© 2026 Carlos Eduardo Ravello Joo — design and architecture (MCD). Clinical content © Dr. Jessica Ysabel Camacho García.",
           "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
           "contentUrl": "https://jessica-camacho.com/assets/img/diagramas/hipotiroidismo-vs-nthi-en.svg"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://jessica-camacho.com/assets/img/clinica/caso-clinico-dermatosis-alopecia-canina-jessica-camacho.webp#image",
+          "url": "https://jessica-camacho.com/assets/img/clinica/caso-clinico-dermatosis-alopecia-canina-jessica-camacho.webp",
+          "name": "Clinical case: extensive alopecia and dermatitis in a dog — evaluation, Dr. Jessica Camacho García",
+          "description": "Canine patient with extensive alopecia and dermatitis under clinical evaluation; etiology under investigation. The dermatosis as the starting point of the endocrine differential.",
+          "author": { "@id": "https://jessica-camacho.com/#person" },
+          "creator": { "@id": "https://jessica-camacho.com/#person" },
+          "copyrightHolder": { "@type": "Person", "name": "Carlos Eduardo Ravello Joo", "url": "https://carlosravello.com" },
+          "copyrightNotice": "© 2026 Carlos Eduardo Ravello Joo (design) · Clinical content © Dr. Jessica Ysabel Camacho García",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "contentUrl": "https://jessica-camacho.com/assets/img/clinica/caso-clinico-dermatosis-alopecia-canina-jessica-camacho.webp"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://jessica-camacho.com/assets/img/clinica/examen-dermatologico-dermatoscopio-canino-jessica-camacho.webp#image",
+          "url": "https://jessica-camacho.com/assets/img/clinica/examen-dermatologico-dermatoscopio-canino-jessica-camacho.webp",
+          "name": "Dermatological examination of a canine patient — clinical diagnosis, Dr. Jessica Camacho García",
+          "description": "Direct dermatological examination of a canine patient with a magnification instrument. Dr. Jessica Camacho García, CMVP 12434, Zoovet.",
+          "author": { "@id": "https://jessica-camacho.com/#person" },
+          "creator": { "@id": "https://jessica-camacho.com/#person" },
+          "copyrightHolder": { "@type": "Person", "name": "Carlos Eduardo Ravello Joo", "url": "https://carlosravello.com" },
+          "copyrightNotice": "© 2026 Carlos Eduardo Ravello Joo (design) · Clinical content © Dr. Jessica Ysabel Camacho García",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "contentUrl": "https://jessica-camacho.com/assets/img/clinica/examen-dermatologico-dermatoscopio-canino-jessica-camacho.webp"
         }
       ]
     }
@@ -266,6 +297,17 @@
                     <li><strong>Secondary infections</strong> —pyoderma, demodicosis— favoured by impaired skin barrier and cutaneous immunity.<sup class="ref"><a href="#ref-6">6</a></sup></li>
                 </ul>
                 <p>Adult-onset demodicosis deserves separate mention: in a series of 122 dogs it was significantly associated with both hypothyroidism and hyperadrenocorticism, so that its appearance mandates investigating both endocrinopathies.<sup class="ref"><a href="#ref-6">6</a></sup></p>
+
+                <figure class="photo-clin" aria-label="Clinical case of extensive alopecia and dermatitis in a dog">
+                    <img
+                        src="../../../assets/img/clinica/caso-clinico-dermatosis-alopecia-canina-jessica-camacho.webp"
+                        alt="Canine patient with extensive alopecia and dermatitis over the limbs and abdomen — clinical case under evaluation. Dr. Jessica Camacho García, CMVP 12434, Zoovet."
+                        width="768"
+                        height="960"
+                        loading="lazy"
+                    >
+                    <figcaption>Real case: extensive alopecia and dermatitis under evaluation (etiology under investigation). The cutaneous pattern is the starting point of the endocrine differential —not its conclusion.</figcaption>
+                </figure>
             </section>
 
             <section aria-labelledby="confounder">
@@ -305,6 +347,17 @@
                     <li><strong>Hormone profile:</strong> do not measure total T4 alone. Combine total T4, cTSH, and free T4 (ideally by equilibrium dialysis).<sup class="ref"><a href="#ref-3">3</a></sup></li>
                     <li><strong>Timing of measurement:</strong> avoid testing in the midst of acute illness or stress; if the low T4 appears in that context, defer the decision.<sup class="ref"><a href="#ref-4">4</a></sup></li>
                 </ul>
+
+                <figure class="photo-clin" aria-label="Direct dermatological examination of a canine patient">
+                    <img
+                        src="../../../assets/img/clinica/examen-dermatologico-dermatoscopio-canino-jessica-camacho.webp"
+                        alt="Dermatological examination of a canine patient with a magnification instrument — direct clinical assessment of skin and coat. Dr. Jessica Camacho García, CMVP 12434, Zoovet."
+                        width="960"
+                        height="1280"
+                        loading="lazy"
+                    >
+                    <figcaption>Direct dermatological examination is the first diagnostic instrument, before the laboratory: it guides which hormones to measure and how to interpret them in context.</figcaption>
+                </figure>
 
                 <h3>5.2. Orienting differences</h3>
                 <div class="doctable-wrap">
