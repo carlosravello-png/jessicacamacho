@@ -87,6 +87,7 @@
 
         sup.ref { font-size: 0.68rem; line-height: 0; }
         sup.ref a { color: var(--color-primary); font-weight: 600; }
+        sup.ref + sup.ref::before { content: ","; color: var(--color-text-light); font-weight: 400; }
 
         .breadcrumb { font-size: 0.88rem; color: var(--color-text-light); margin-bottom: 40px; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
         .breadcrumb a { color: var(--color-text-light); font-weight: 400; text-decoration: none; }
