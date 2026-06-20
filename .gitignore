@@ -1,0 +1,7 @@
+fotos claude escoge/
+fotos/
+**/fotos claude escoge/
+.DS_Store
+Thumbs.db
+*.heic
+*.HEIC
