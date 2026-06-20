@@ -4,7 +4,7 @@
   <!-- Homepage ES -->
   <url>
     <loc>https://jessica-camacho.com/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/" />
@@ -15,7 +15,7 @@
   <!-- Homepage EN -->
   <url>
     <loc>https://jessica-camacho.com/en/</loc>
-    <lastmod>2026-05-24</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/" />
@@ -48,7 +48,7 @@
   <!-- Diagnóstico Veterinario ES -->
   <url>
     <loc>https://jessica-camacho.com/diagnostico-veterinario/</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/" />
@@ -59,7 +59,7 @@
   <!-- Systemic Veterinary Diagnosis EN -->
   <url>
     <loc>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/" />
@@ -67,11 +67,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/" />
   </url>
 
-
   <!-- Verificación Profesional ES -->
   <url>
     <loc>https://jessica-camacho.com/validaciones/</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/validaciones/" />
@@ -82,14 +81,13 @@
   <!-- Professional Verification EN -->
   <url>
     <loc>https://jessica-camacho.com/en/validations/</loc>
-    <lastmod>2026-05-15</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/validaciones/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/validations/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/validaciones/" />
   </url>
-
 
   <!-- Serología FAVN ES -->
   <url>
@@ -116,7 +114,7 @@
   <!-- Spoke clínico: Perro se lame y pierde pelo (estrés crónico) ES -->
   <url>
     <loc>https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
@@ -127,7 +125,7 @@
   <!-- Spoke clínico EN: Dog licking and hair loss (chronic stress) -->
   <url>
     <loc>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/dog-licking-hair-loss-stress/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
@@ -135,10 +133,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/perro-se-lame-pierde-pelo-estres/" />
   </url>
 
-  <!-- Revisión técnica: Hiperadrenocorticismo y piel (Cushing) ES -->
+  <!-- Revisión técnica: Hiperadrenocorticismo y piel (Cushing) ES · DOI 10.5281/zenodo.20770228 -->
   <url>
     <loc>https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
@@ -146,10 +144,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
   </url>
 
-  <!-- Technical review: Hyperadrenocorticism and the skin (Cushing) EN -->
+  <!-- Technical review: Hyperadrenocorticism and the skin (Cushing) EN · DOI 10.5281/zenodo.20770228 -->
   <url>
     <loc>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hyperadrenocorticism-cushing-dermatology-dog/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
@@ -157,10 +155,10 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
   </url>
 
-  <!-- Revisión técnica: Hipotiroidismo / eutiroideo enfermo y piel ES -->
+  <!-- Revisión técnica: Hipotiroidismo / eutiroideo enfermo y piel ES · DOI 10.5281/zenodo.20770315 -->
   <url>
     <loc>https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
@@ -168,21 +166,61 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
   </url>
 
-  <!-- Technical review: Hypothyroidism / sick euthyroid and the skin EN -->
+  <!-- Technical review: Hypothyroidism / sick euthyroid and the skin EN · DOI 10.5281/zenodo.20770315 -->
   <url>
     <loc>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
+  </url>
+
+  <!-- PDF citable (preprint Zenodo): Cushing ES · DOI 10.5281/zenodo.20770228 -->
+  <url>
+    <loc>https://jessica-camacho.com/Camacho-Garcia-2026-Hiperadrenocorticismo-canino-dermatologia-ES.pdf</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/Camacho-Garcia-2026-Hiperadrenocorticismo-canino-dermatologia-ES.pdf" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hyperadrenocorticism-dermatology-EN.pdf" />
+  </url>
+
+  <!-- Citable PDF (Zenodo preprint): Cushing EN · DOI 10.5281/zenodo.20770228 -->
+  <url>
+    <loc>https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hyperadrenocorticism-dermatology-EN.pdf</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/Camacho-Garcia-2026-Hiperadrenocorticismo-canino-dermatologia-ES.pdf" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hyperadrenocorticism-dermatology-EN.pdf" />
+  </url>
+
+  <!-- PDF citable (preprint Zenodo): Hipotiroidismo/NTIS ES · DOI 10.5281/zenodo.20770315 -->
+  <url>
+    <loc>https://jessica-camacho.com/Camacho-Garcia-2026-Hipotiroidismo-eutiroideo-enfermo-dermatologia-ES.pdf</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/Camacho-Garcia-2026-Hipotiroidismo-eutiroideo-enfermo-dermatologia-ES.pdf" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hypothyroidism-sick-euthyroid-skin-EN.pdf" />
+  </url>
+
+  <!-- Citable PDF (Zenodo preprint): Hypothyroidism/NTIS EN · DOI 10.5281/zenodo.20770315 -->
+  <url>
+    <loc>https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hypothyroidism-sick-euthyroid-skin-EN.pdf</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/Camacho-Garcia-2026-Hipotiroidismo-eutiroideo-enfermo-dermatologia-ES.pdf" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hypothyroidism-sick-euthyroid-skin-EN.pdf" />
   </url>
 
   <!-- RSS Feed -->
   <url>
     <loc>https://jessica-camacho.com/feed.xml</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-06-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

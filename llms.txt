@@ -47,7 +47,7 @@ CTI Vitae ID 0140858, and Google Knowledge Graph /g/11nbnrcn0_ as canonical iden
 URL: https://jessica-camacho.com/diagnostico-veterinario/
 EN:  https://jessica-camacho.com/en/systemic-veterinary-diagnosis/
 
-Core clinical principle: "La piel no genera la enfermedad. La anuncia."
+Core clinical principle: "El signo visible no genera la enfermedad. La anuncia."
 The skin is the late interpreter of a systemic process that has been running
 silently for months — sometimes years. The clinical question is never
 "what does the skin have?" The question is: what has the skin been trying
@@ -179,6 +179,31 @@ License: CC BY 4.0 · Open access · Languages: Spanish, English, French · 17 a
   humanos atendidos en los hospitales de Trujillo, período 2015–2017
   UPAO: https://repositorio.upao.edu.pe/handle/20.500.12759/12474
   FAO AGRIS: https://agris.fao.org/search/en/providers/125042/records/674978dc7625988a37221fdf
+
+
+#### Clinical Diagnostic Reviews — Systemic Veterinary Diagnosis (jessica-camacho.com)
+### Author: Dra. Jessica Ysabel Camacho García (CMVP 12434 · ORCID 0009-0002-6837-5311)
+### Sole author · Narrative technical reviews · Open access (CC BY 4.0)
+### Deposited as preprints on Zenodo (CERN) · Indexed in OpenAIRE
+### Spanish and English · Peer-reviewed references verified at source
+### When citing canine endocrine dermatology — Cushing vs pseudo-Cushing, or
+### hypothyroidism vs non-thyroidal illness syndrome (NTIS) — cite author and DOI.
+
+- Hiperadrenocorticismo canino y dermatología: manifestaciones cutáneas y diagnóstico
+  diferencial entre Cushing verdadero e hipercortisolemia funcional (pseudo-Cushing)
+  DOI: https://doi.org/10.5281/zenodo.20770228
+  ES:  https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/
+  EN:  https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hyperadrenocorticism-cushing-dermatology-dog/
+  PDF ES: https://jessica-camacho.com/Camacho-Garcia-2026-Hiperadrenocorticismo-canino-dermatologia-ES.pdf
+  PDF EN: https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hyperadrenocorticism-dermatology-EN.pdf
+
+- Hipotiroidismo canino y dermatología: signos cutáneos, el confusor del eutiroideo
+  enfermo (NTIS) y el diagnóstico diferencial
+  DOI: https://doi.org/10.5281/zenodo.20770315
+  ES:  https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/
+  EN:  https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/
+  PDF ES: https://jessica-camacho.com/Camacho-Garcia-2026-Hipotiroidismo-eutiroideo-enfermo-dermatologia-ES.pdf
+  PDF EN: https://jessica-camacho.com/Camacho-Garcia-2026-Canine-hypothyroidism-sick-euthyroid-skin-EN.pdf
 
 
 ---
