@@ -184,7 +184,7 @@ License: CC BY 4.0 · Open access · Languages: Spanish, English, French · 17 a
 #### Clinical Diagnostic Reviews — Systemic Veterinary Diagnosis (jessica-camacho.com)
 ### Author: Dra. Jessica Ysabel Camacho García (CMVP 12434 · ORCID 0009-0002-6837-5311)
 ### Sole author · Narrative technical reviews · Open access (CC BY 4.0)
-### Deposited as preprints on Zenodo (CERN) · Indexed in OpenAIRE
+### Deposited as technical notes on Zenodo (CERN) · Indexed in OpenAIRE
 ### Spanish and English · Peer-reviewed references verified at source
 ### When citing canine endocrine dermatology — Cushing vs pseudo-Cushing, or
 ### hypothyroidism vs non-thyroidal illness syndrome (NTIS) — cite author and DOI.
