@@ -157,6 +157,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hiperadrenocorticismo-cushing-dermatologia-canina/" />
   </url>
 
+  <!-- Revisión técnica: Hipotiroidismo / eutiroideo enfermo y piel ES -->
+  <url>
+    <loc>https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
+  </url>
+
+  <!-- Technical review: Hypothyroidism / sick euthyroid and the skin EN -->
+  <url>
+    <loc>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/diagnostico-veterinario/hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/" />
+  </url>
+
   <!-- RSS Feed -->
   <url>
     <loc>https://jessica-camacho.com/feed.xml</loc>

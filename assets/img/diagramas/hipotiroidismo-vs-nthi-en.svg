@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 820 600" width="820" height="600" role="img" aria-labelledby="t d" font-family="'Inter','Helvetica Neue',Arial,sans-serif">
+  <title id="t">Differential diagnosis: primary hypothyroidism vs. non-thyroidal illness syndrome (NTIS) in the dog — Dr. Jessica Camacho García</title>
+  <desc id="d">Comparative table between primary hypothyroidism (thyroid gland disease; low total T4; cTSH often elevated; low free T4; typical dermatosis; persistent, responds to levothyroxine) and non-thyroidal illness syndrome or NTIS (systemic illness or stress; low total T4 as a confounder; normal or low cTSH; normal or mildly low free T4; no typical dermatosis; normalizes within 2 to 4 weeks). Rule: do not test the thyroid in a stressed or ill patient; re-test after recovery. Clinical content by Dr. Jessica Ysabel Camacho García, CMVP 12434, ORCID 0009-0002-6837-5311. Design © Carlos Eduardo Ravello Joo.</desc>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work rdf:about="https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/">
+        <dc:title>Differential diagnosis: primary hypothyroidism vs. NTIS in the dog — clinical table</dc:title>
+        <dc:creator>Dr. Jessica Ysabel Camacho García — Veterinary Surgeon, CMVP 12434, ORCID 0009-0002-6837-5311</dc:creator>
+        <dc:rights>© 2026 Carlos Eduardo Ravello Joo — design and semantic architecture (Dynamic Coherence Model, MCD). Clinical content © Dr. Jessica Ysabel Camacho García.</dc:rights>
+        <dc:publisher>jessica-camacho.com</dc:publisher>
+        <dc:source>https://jessica-camacho.com/en/systemic-veterinary-diagnosis/hypothyroidism-sick-euthyroid-skin-dog/</dc:source>
+        <dc:subject>canine hypothyroidism; non-thyroidal illness syndrome; NTIS; T4; cTSH; free T4; differential diagnosis; endocrine dermatosis; overdiagnosis</dc:subject>
+        <dc:description>Comparative table for the differential between primary hypothyroidism and NTIS in the dog. Clinical author: Dr. Jessica Ysabel Camacho García.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:date>2026-06-19</dc:date>
+        <dc:format>image/svg+xml</dc:format>
+        <cc:license rdf:resource="https://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
+  <rect width="820" height="600" fill="#FFFFFF"/>
+
+  <text x="410" y="38" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="24" font-weight="700" fill="#3F2366">Primary hypothyroidism vs. NTIS</text>
+  <text x="410" y="64" text-anchor="middle" font-size="13.5" fill="#6A7181">Telling gland disease from sick-euthyroid when T4 is low</text>
+
+  <rect x="30" y="84" width="200" height="44" fill="#F8F5FB" stroke="#EBE6F3"/>
+  <text x="44" y="111" font-size="12.5" font-weight="700" fill="#6A7181">Parameter</text>
+  <rect x="230" y="84" width="292" height="44" fill="#6B3FA0"/>
+  <text x="376" y="111" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">Primary hypothyroidism</text>
+  <rect x="522" y="84" width="268" height="44" fill="#5B6B8C"/>
+  <text x="656" y="105" text-anchor="middle" font-size="13" font-weight="700" fill="#FFFFFF">Sick euthyroid</text>
+  <text x="656" y="120" text-anchor="middle" font-size="11.5" fill="#DCE2EE">(NTIS)</text>
+
+  <rect x="30" y="128" width="200" height="48" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="157" font-size="12.5" font-weight="600" fill="#3F2366">Cause</text>
+  <rect x="230" y="128" width="292" height="48" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="157" font-size="12.5" fill="#333944">Thyroid gland disease</text>
+  <rect x="522" y="128" width="268" height="48" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="157" font-size="12.5" fill="#333944">Systemic illness or stress</text>
+
+  <rect x="30" y="176" width="200" height="44" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="203" font-size="12.5" font-weight="600" fill="#3F2366">Total T4</text>
+  <rect x="230" y="176" width="292" height="44" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="203" font-size="12.5" fill="#333944">Low</text>
+  <rect x="522" y="176" width="268" height="44" fill="#FFF6F6" stroke="#EBE6F3"/><text x="536" y="203" font-size="12.5" fill="#A33A3A">Low (confounder)</text>
+
+  <rect x="30" y="220" width="200" height="44" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="247" font-size="12.5" font-weight="600" fill="#3F2366">cTSH</text>
+  <rect x="230" y="220" width="292" height="44" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="247" font-size="12.5" fill="#333944">Often elevated</text>
+  <rect x="522" y="220" width="268" height="44" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="247" font-size="12.5" fill="#333944">Normal or low</text>
+
+  <rect x="30" y="264" width="200" height="44" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="291" font-size="12.5" font-weight="600" fill="#3F2366">Free T4 (dialysis)</text>
+  <rect x="230" y="264" width="292" height="44" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="291" font-size="12.5" fill="#333944">Low</text>
+  <rect x="522" y="264" width="268" height="44" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="291" font-size="12.5" fill="#333944">Normal or mildly low</text>
+
+  <rect x="30" y="308" width="200" height="56" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="340" font-size="12.5" font-weight="600" fill="#3F2366">Skin signs</text>
+  <rect x="230" y="308" width="292" height="56" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="332" font-size="12.5" fill="#333944">Typical dermatosis</text><text x="244" y="349" font-size="12.5" fill="#333944">(rat tail, myxedema)</text>
+  <rect x="522" y="308" width="268" height="56" fill="#FFFFFF" stroke="#EBE6F3"/><text x="536" y="332" font-size="12.5" fill="#333944">No typical thyroid</text><text x="536" y="349" font-size="12.5" fill="#333944">dermatosis</text>
+
+  <rect x="30" y="364" width="200" height="56" fill="#F8F5FB" stroke="#EBE6F3"/><text x="44" y="396" font-size="12.5" font-weight="600" fill="#3F2366">Course / re-test</text>
+  <rect x="230" y="364" width="292" height="56" fill="#FFFFFF" stroke="#EBE6F3"/><text x="244" y="388" font-size="12.5" fill="#333944">Persistent; responds to</text><text x="244" y="405" font-size="12.5" fill="#333944">levothyroxine</text>
+  <rect x="522" y="364" width="268" height="56" fill="#F1FBF3" stroke="#EBE6F3"/><text x="536" y="388" font-size="12.5" fill="#1B5E20">Normalizes within</text><text x="536" y="405" font-size="12.5" fill="#1B5E20">2–4 weeks</text>
+
+  <rect x="30" y="438" width="760" height="50" rx="8" fill="#F8F5FB" stroke="#6B3FA0"/>
+  <text x="410" y="462" text-anchor="middle" font-size="13.5" font-weight="600" font-style="italic" fill="#3F2366">Rule: do not test the thyroid in a stressed or ill patient.</text>
+  <text x="410" y="479" text-anchor="middle" font-size="12.5" font-style="italic" fill="#6A7181">If T4 is low with underlying illness, re-test 2–4 weeks after recovery.</text>
+
+  <line x1="30" y1="520" x2="790" y2="520" stroke="#EBE6F3" stroke-width="1"/>
+  <text x="410" y="540" text-anchor="middle" font-size="12" font-weight="600" fill="#3F2366">Clinical content: Dr. Jessica Ysabel Camacho García, DVM · CMVP 12434 · ORCID 0009-0002-6837-5311</text>
+  <text x="410" y="559" text-anchor="middle" font-size="11.5" fill="#6A7181">© 2026 Carlos Eduardo Ravello Joo — design and architecture (MCD) · jessica-camacho.com</text>
+  <text x="410" y="577" text-anchor="middle" font-size="11" fill="#6A7181">Licensed CC BY-NC-ND 4.0 · DOI-verified sources in the original article</text>
+</svg>
