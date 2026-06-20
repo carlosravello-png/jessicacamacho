@@ -259,6 +259,19 @@
             font-style: italic;
         }
 
+        ul.list-cards { padding-left: 0; list-style: none; margin: 25px 0; }
+        .list-cards li {
+            background: var(--color-bg);
+            border: 1px solid var(--color-border);
+            border-radius: 8px;
+            padding: 20px 24px;
+            margin-bottom: 14px;
+            transition: var(--transition);
+            font-size: 1.02rem;
+        }
+        .list-cards li a { display: inline-block; margin-top: 5px; }
+        .list-cards li:hover { border-color: var(--color-primary); background: var(--color-bg-alt); transform: translateY(-3px); box-shadow: 0 8px 20px rgba(107, 63, 160, 0.06); }
+
         footer {
             margin-top: 60px;
             padding-top: 30px;
@@ -472,6 +485,28 @@
                     >
                     <figcaption>Caso real documentado: Jack, bulldog, 10 meses. Zona alopécica dorsal sin prurito — diagnóstico diferencial confirmó etiología parasitológica, no alérgica. Resolución a 30 días post-tratamiento. «No todo es alergia.»</figcaption>
                 </figure>
+            </section>
+
+            <section aria-labelledby="articulos">
+                <h2 id="articulos">Artículos y revisiones clínicas</h2>
+                <p>Análisis firmados sobre diagnóstico sistémico, dermatología y endocrinología veterinaria, con fuentes revisadas por pares.</p>
+                <ul class="list-cards">
+                    <li>
+                        <strong>Mi perro se lame y pierde pelo: la piel como aviso de un proceso sistémico</strong><br>
+                        Lamido crónico y alopecia: estrés sostenido, cortisol e inmunosupresión. Para dueños y clínicos.<br>
+                        <a href="perro-se-lame-pierde-pelo-estres/">Leer →</a>
+                    </li>
+                    <li>
+                        <strong>Hiperadrenocorticismo (Cushing) y la piel — revisión técnica</strong><br>
+                        Manifestaciones cutáneas del HAC y diagnóstico diferencial Cushing verdadero vs. pseudo-Cushing. Para profesionales.<br>
+                        <a href="hiperadrenocorticismo-cushing-dermatologia-canina/">Leer revisión →</a>
+                    </li>
+                    <li>
+                        <strong>Hipotiroidismo, eutiroideo enfermo (NTIS) y la piel — revisión técnica</strong><br>
+                        Dermatosis del hipotiroidismo y el NTIS como confusor de la T4 baja. Diagnóstico diferencial. Para profesionales.<br>
+                        <a href="hipotiroidismo-eutiroideo-enfermo-dermatologia-canina/">Leer revisión →</a>
+                    </li>
+                </ul>
             </section>
 
             <section aria-labelledby="consulta">
