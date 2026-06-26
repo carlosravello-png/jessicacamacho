@@ -23,6 +23,28 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/" />
   </url>
 
+  <!-- Sobre Jessica (About) ES -->
+  <url>
+    <loc>https://jessica-camacho.com/sobre-mi/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/sobre-mi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/sobre-mi/" />
+  </url>
+
+  <!-- About Jessica EN -->
+  <url>
+    <loc>https://jessica-camacho.com/about/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://jessica-camacho.com/sobre-mi/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://jessica-camacho.com/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://jessica-camacho.com/sobre-mi/" />
+  </url>
+
   <!-- Zoovet Travel ES -->
   <url>
     <loc>https://jessica-camacho.com/zoovet-travel/</loc>
